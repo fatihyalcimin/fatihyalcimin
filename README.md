@@ -12,6 +12,7 @@ Ayrıca **Google Yapay Zeka ve Teknoloji Akademisi** bursiyeriyim.
 - 💻 **EdusensPro** ve **Akademik Koç** gibi yapay zeka tabanlı projeler geliştirdim.
 - 🌐 Kişisel Portfolyo Sitem: [fatihyalcimin.github.io/portfolio](https://fatihyalcimin.github.io/portfolio/)
 - 📫 Bana ulaşmak için: **yalciminfatih2@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/Fatih_Yalçimin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-yal%C3%A7imin-313841236/)
 
 ---
 
