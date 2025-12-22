@@ -11,7 +11,8 @@ Ayrıca **Google Yapay Zeka ve Teknoloji Akademisi** bursiyeriyim.
 - 🌱 **Derin Öğrenme mimarileri (CNN, ANN)** ve **Python** üzerine yoğunlaşıyorum.
 - 💻 **EdusensPro** ve **Akademik Koç** gibi yapay zeka tabanlı projeler geliştirdim.
 - 🌐 Kişisel Portfolyo Sitem: [fatihyalcimin.github.io/portfolio](https://fatihyalcimin.github.io/portfolio/)
-- 📫 Bana ulaşmak için: **yalciminfatih2@gmail.com** , **[fatihyalcimin](https://www.linkedin.com/in/fatih-yal%C3%A7imin-313841236/)**
+- 📫 Bana ulaşmak için: **yalciminfatih2@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihyalcimin)
 
 ---
 
