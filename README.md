@@ -1,16 +1,32 @@
-## Hi there 👋
+# Merhaba, ben [Fatih Yalçimin]! 👋
 
-<!--
-**fatihyalcimin/fatihyalcimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muğla Sıtkı Koçman Üniversitesi'nde Bilişim Sistemleri Mühendisliği öğrencisiyim. Yapay Zeka, Veri Bilimi ve Makine Öğrenmesi alanlarına ilgi duyuyorum. Şu anda kendimi geliştirmek ve yeni teknolojiler öğrenmek üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Derin Öğrenme, Görüntü İşleme ve Python** öğreniyorum.
+- 👯 **Açık kaynak projelerde** iş birliği yapmaya açığım.
+- 💬 Bana **Yapay Zeka, Veri Analizi ve Python** hakkında soru sorabilirsin.
+- 📫 Bana ulaşmak için: **[yalciminfatih2@gmail.com]**
+
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=radical" alt="Top Langs" />
+</p>
