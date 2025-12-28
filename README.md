@@ -1,8 +1,8 @@
 # Merhaba, ben Fatih Yalçimin! 👋
 
-Muğla Sıtkı Koçman Üniversitesi **Bilişim Sistemleri Mühendisliği** 4. sınıf öğrencisiyim. **Yapay Zeka**, **Derin Öğrenme** ve **Görüntü İşleme** alanlarında kendimi geliştiriyorum ve projeler üretiyorum.
+Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim. Yapay Zeka, Derin Öğrenme ve Görüntü İşleme alanlarında kendimi geliştiriyorum ve projeler üretiyorum.
 
-Ayrıca **Google Yapay Zeka ve Teknoloji Akademisi** bursiyeriyim.
+Ayrıca Google Yapay Zeka ve Teknoloji Akademisi bursiyeriyim.
 
 ### 🚀 Hakkımda
 
